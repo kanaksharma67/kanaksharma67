@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanaksharma67
 - 👀 I’m interested in Coding and learning about computer lanaguages
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on java open source projects
+- 🌱 I’m currently learning frontend web  development
+- 💞️ I’m looking to collaborate on frontend open source projects
 - 📫 How to reach me- you can contact me through my email id
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
