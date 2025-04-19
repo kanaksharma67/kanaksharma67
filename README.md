@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kanaksharmaaa67@gmail.com**
 
-<img src="https://raw.githubusercontent.com/kanaksharma67/kanaksharma67/output/snake.svg" alt="Snake animation" />
+
 
 
 <div align="left">
