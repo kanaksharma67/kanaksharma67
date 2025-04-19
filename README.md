@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Different Projects**
 
-- 🤝 I’m looking for help with **Every developer**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-react-1cx8.vercel.app/](https://portfolio-react-1cx8.vercel.app/)
 
 - 💬 Ask me about **react,gsap,express,Mongodb**
