@@ -201,6 +201,7 @@
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
         <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
         <p><i>March 21-22, 2025</i></p>
+        <img src="https://raw.githubusercontent.com/kanaksharma/kanaksharma/main/certificates/code-e-manipal.jpg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center" width="50%">
         <h3>Code Seva Hackathon</h3>
@@ -208,6 +209,7 @@
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
         <p>Organized by Geek Room and Sahyog: Care of You</p>
         <p><i>March 1, 2025</i></p>
+        <img src="https://raw.githubusercontent.com/kanaksharma/kanaksharma/main/certificates/code-seva.jpg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
     <tr>
@@ -216,12 +218,23 @@
         <p><b>Participant</b> in India's biggest hackathon</p>
         <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
         <p><i>February 21-22, 2025</i></p>
+        <img src="https://raw.githubusercontent.com/kanaksharma/kanaksharma/main/certificates/code-kshetra.jpg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center">
         <h3>Code Nakshatra</h3>
         <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
         <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
         <p><i>April 3-4, 2025</i></p>
+        <img src="https://raw.githubusercontent.com/kanaksharma/kanaksharma/main/certificates/code-nakshatra.jpg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>Hackaccino 3.0</h3>
+        <p><b>Participant</b> in Hackaccino 2025</p>
+        <p>Organized by SCET</p>
+        <p><i>March 15, 2025</i></p>
+        <img src="https://raw.githubusercontent.com/kanaksharma/kanaksharma/main/certificates/hackaccino.jpg" alt="Hackaccino Certificate" width="80%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
   </table>
