@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanak Sharma</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<img align="right" alt="gif" width="400" src="![image](https://github.com/user-attachments/assets/6a26e7ad-637f-49cd-b52c-356cfc69d099)
+<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
 
 ">
 
