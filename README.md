@@ -175,21 +175,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-## <div align="center">📊 Coding Activity</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanaksharma&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanaksharma&theme=radical&hide_border=true&background=1A1B27" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
 ## <div align="center">🏆 Hackathon Achievements</div>
 
 <div align="center">
@@ -202,7 +187,7 @@
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
         <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
         <p><i>March 21-22, 2025</i></p>
-        <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22code%20e%20manipal%20kanak%20.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T10%3A12%3A47.065Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fdb874828c78b46d7%2Fcode%2520e%2520manipal%2520kanak%2520.jpg%3FExpires%3D1841652767%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DCwbmL~k0vV7nyqCBxZW7PECngCy6gRNL687dY-E0wkVqUxnDnwF0PHU78qlLO3irZDrWWULCAPmECEm4HxX3ll7HdXTU4Ed4ESRyz1ao9vnaNrGuovUueBDp5QplwNZXeY-oa~8q7M4sJ0JpnUXNhzfzACZ8LOHSjf-Bp5ioi61~wxb2QQ2jijiszSqu6KNn32qJXpj9vxqMpajybscnCx-zLjzasj6LIeT8XnBe9QJ7iWIDF2H-Um8QSmfAeOnFaampQkHHAP5Ver7yAU1rnPfBacK71cGT4N2ucmQ6fx7I~I6Svn6iA8d21POn6Wtb8A6anK-aUpohkKaX0ldCyA__%22%7D" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal%20kanak%20.jpg-jlaTL2sugUNA3PbcbTcpF6fgVNyjcc.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
@@ -211,7 +196,7 @@
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
         <p>Organized by Geek Room and Sahyog: Care of You</p>
         <p><i>March 1, 2025</i></p>
-        <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22code%20seva%20kanak.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T10%3A12%3A47.058Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F329d43e5074145ca%2Fcode%2520seva%2520kanak.jpg%3FExpires%3D1841652767%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DYvihbrAT5rLYwcJnM410Qwrug2XDBpSWc1l1d4VJNjHw0EJRZMSFg9g48Dm0VZD1R3gR2aaXgL7X7I4ifnk~lx-a5qThGHaf7fYnL-wZZKjznIjIXwC7cfSelAA9QsX2U-4zg0Bt00ZYfmenIeFfudiZt59vCPahFBvdZaKD9e~159Pypxu9FGmXjVYfVfPj1pMsIzodVft9kz5oa51sdZCHYmyqeDd8gyxx0s6jYsqGf7t2SN7LvSFpbuCW~OveHw5ALpMRAfExsYv8ZaTyDrEH~HaBRXnZ8LRuUMGPkorcjwqBEE31wAr0zqN344ovQihUPqU5kE1DSACRzwpDBw__%22%7D" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva%20kanak.jpg-mSv4aEgKTOs8vVO3zbHYlCyfYUQubA.jpeg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
     <tr>
@@ -221,7 +206,7 @@
         <p><b>Participant</b> in India's biggest hackathon</p>
         <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
         <p><i>February 21-22, 2025</i></p>
-        <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22code%20kshetra%20kanak.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T10%3A12%3A47.052Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F1744e8457c9c4674%2Fcode%2520kshetra%2520kanak.jpg%3FExpires%3D1841652767%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DQr6cSY3lV4MpRfFGgJMVjDyLvu9asHbWVzaY3XgfPc4jh7nZR0uzVCC0A9TU9KSS591tgMxliQM8X1qTD6eQR~RySWsyPmfhxOxJ9Aq7RsOso2pNCqSPLErFClCZNt-G4GWGt6CNCQb4YR3Vu7lfPDiIfZvvyq7~hLhGuEMSGGUwZXHYH01gYhoouXYPRaWoFfyr52zKylU-WSZiPPUrV7dUl4ZpaHhuBZr2WbmnDDgYaGSQMfOhEl8bEgGOLypSp6sMYTp1XW4JfMEpYdbx3Gvv-Qa0kSxpQvwN0ClAdBjPFvWrhkLAcuvq7WsZ4ubBvGk3f2Fo1L07pInMx3RFbA__%22%7D" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra%20kanak.jpg-ULoGwNGye6mYWwmjRP8CnGhZf2uM0J.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
@@ -229,7 +214,7 @@
         <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
         <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
         <p><i>April 3-4, 2025</i></p>
-        <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22code%20nakshetra%20kanak%20.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T10%3A12%3A47.050Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F6585686ec4854729%2Fcode%2520nakshetra%2520kanak%2520.jpg%3FExpires%3D1841652767%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DkAovlx190ByGHaPX0Ai3eZjDJA3FxgcSffYIwsrXhIjJvTmJWf~SrdQ~COacFnW-MOBI2QKUICYNGrLihoRDoqP2Z8dF7rN3DSoKbo9bBOzDJ3Cbc~wT6ZhrzO9bX9gVdVYci~yVpurJPhmriAIkCd3PNziyERgav6KbXRMRx2ojX2BtL1Wcihpfj4KVFhr0EsA~D~MUs75uY~lBI79~JB7Sz6EnDCiyeQ0-Urfw6S2tx8LSN0rzDTlX9IhRaNZcMkOiNXRzAsrUryjvhs2INYIDCW4QUSHknpls~AKFLewvnF2XOGzL031s6Fpb59BwrjTVql0WBlDgUee9fbWKCg__%22%7D" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20nakshetra%20kanak%20.jpg-8i49WaKN3uZxSf2AnBgS5VpxG4smkc.jpeg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
     <tr>
@@ -239,7 +224,7 @@
         <p><b>Participant</b> in Hackaccino 2025</p>
         <p>Organized by SCET</p>
         <p><i>March 15, 2025</i></p>
-        <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22hackaccino%20kanak.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T10%3A12%3A47.043Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa93ac60200364757%2Fhackaccino%2520kanak.jpg%3FExpires%3D1841652767%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DY5OXubnaw01o5P13fHUs4n2C3ahK4sjuPQ71u1xfSiwRjBHW5JhlYdttNRD0tyPIB4Mf6GEXlqz8FrOFE4h6IgpUVRwOatjDRvgHYEsmmoE1d-XPcH~Ix0YImOgSB8q-mcdn2~3qBeVOVk7IxlaQfr25nIGTRckTMayqtl20Fk-8SijCSFXAOP81wLjo9o1qzKDnhjf9Vy9Lpaz29kXUX5eGy2TAZHmuPWz6EGUDeoIYm8xpxo38Jy0ack88jvrJEzr62EDTvtmaoF~k3lXxy8Vym6iCr5Ufu8nPSl63FCBKlahNBgX9HJNd7cpkn7-pC9IF6NTk0NS92XSHGwzx~g__%22%7D" alt="Hackaccino Certificate" width="80%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hackaccino%20kanak.jpg-FBxWp5jJTt1y1suxtd2oY0t69UMhNM.jpeg" alt="Hackaccino Certificate" width="80%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
   </table>
@@ -330,7 +315,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-## <div align="center">📈 GitHub Stats</div>
+## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kanaksharma&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&border_radius=10" />
@@ -441,3 +426,5 @@
   <p>Made with ❤️ by Kanak Sharma</p>
   <p><em>Last updated: May 2025</em></p>
 </div>
+```
+
