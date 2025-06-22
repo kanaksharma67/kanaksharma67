@@ -183,17 +183,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <div class="achievement-card">
-          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
-          <h3>Transcrypt Project</h3>
-          <p><b>Featured Project 🌟</b></p>
-          <p>Developed advanced encryption system using neural networks</p>
-          <p>Recognized by AI Research Community</p>
-          <p><i>May 2025</i></p>
-          <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Transcrypt+Project" alt="Transcrypt Project" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-        </div>
-      </td>
+     
       <td align="center" width="50%">
         <div class="achievement-card">
           <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
@@ -203,6 +193,17 @@
           <p>Organized by Geek Room and Sahyog: Care of You</p>
           <p><i>March 1, 2025</i></p>
           <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva%20kanak.jpg-mSv4aEgKTOs8vVO3zbHYlCyfYUQubA.jpeg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        </div>
+      </td>
+       <td align="center" width="50%">
+        <div class="achievement-card">
+          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
+          <h3>Hackaccino </h3>
+          <p><b>Featured Project 🌟</b></p>
+          <p>Developed ui ux of our speech detection model website</p>
+          <p>Recognized by bennette university</p>
+          <p><i>April 2025</i></p>
+          <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Transcrypt+Project" alt="Transcrypt Project" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
         </div>
       </td>
     </tr>
@@ -236,11 +237,11 @@
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><b>Python, TensorFlow, React.js, Node.js</b></p>
+          <p><b>Python, TensorFlow, React.js, blockchain</b></p>
           <ul align="left">
-            <li>Advanced neural encryption system that adapts to patterns in data</li>
-            <li>Uses LSTM networks for dynamic key generation and pattern recognition</li>
-            <li>Recognized by AI research community for innovative approach</li>
+            <li>peer-to-peer blockchain project that possible real time offline money transaction</li>
+            <li>Split bill feature inside the web app</li>
+            <li>real time bitcioin price graphs and used stellar for offline transaction</li>
           </ul>
         </div>
       </td>
