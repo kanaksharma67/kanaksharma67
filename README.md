@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Gen+AI+Enthusiast;Problem+Solver;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Gen+AI+Enthusiast;Machine+Learning+Engineer;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -25,11 +25,11 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p>
-  Hi there! I'm <b>Kanak Sharma</b>, an enthusiastic software developer with a passion for creating clean, efficient, and user-friendly applications. My journey in tech is driven by curiosity and the desire to solve real-world problems through code.
+  Hi there! I'm <b>Kanak Sharma</b>, an AI/ML enthusiast and full-stack developer with a passion for creating intelligent solutions. My journey in tech is driven by curiosity and the desire to solve complex problems through machine learning and innovative coding.
 </p>
 
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=6366F1&vCenter=true&width=435&lines=🔭+Currently+working+on+Web+Development;🌱+Learning+Gen+AI+and+Advanced+JS;👯+Looking+to+collaborate+on+coding+projects;💬+Ask+me+about+React+and+JavaScript;📫+Reach+me+at+kanaksharmaaa67@gmail.com" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=6366F1&vCenter=true&width=435&lines=🔭+Currently+working+on+AI+Projects;🌱+Learning+Advanced+ML+and+Deep+Learning;👯+Looking+to+collaborate+on+AI+projects;💬+Ask+me+about+Python+and+TensorFlow;📫+Reach+me+at+kanaksharmaaa67@gmail.com" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -39,21 +39,21 @@
     <tr>
       <td width="50%">
         <h3 align="center">💡 Interests</h3>
-        <p align="center">Web Development, Gen AI, API Design</p>
+        <p align="center">Machine Learning, Deep Learning, NLP</p>
       </td>
       <td width="50%">
         <h3 align="center">🎯 Goal</h3>
-        <p align="center">To become a proficient full-stack and Gen AI developer and contribute to open source</p>
+        <p align="center">To become an AI Research Scientist and contribute to open source AI projects</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <h3 align="center">📚 Learning</h3>
-        <p align="center">Gen AI, JavaScript Advanced Concepts, CI/CD</p>
+        <p align="center">Generative AI, Transformers, Computer Vision</p>
       </td>
       <td width="50%">
         <h3 align="center">🤝 Soft Skills</h3>
-        <p align="center">Leadership, Collaboration, Problem-solving, Curious Learner</p>
+        <p align="center">Problem-solving, Research, Collaboration, Continuous Learning</p>
       </td>
     </tr>
   </table>
@@ -66,31 +66,27 @@
 ## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,python,cpp,java,git,github,docker,firebase,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit,react,js,ts,nodejs,mongodb,git,github,vercel&perline=9" />
 </div>
-
-
 
 <h3 align="center">Languages</h3>
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 </p>
 
-<h3 align="center">Frameworks & Libraries</h3>
+<h3 align="center">AI/ML Frameworks</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
+
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
@@ -98,12 +94,8 @@
   <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab" /></a>
 </p>
 
 <div align="center">
@@ -116,23 +108,23 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Frontend</h3>
+        <h3 align="center">AI/ML</h3>
         <div align="center">
-          <img src="https://progress-bar.dev/95/?title=JavaScript&width=400&color=6366F1" alt="JavaScript 95%" />
-          <img src="https://progress-bar.dev/90/?title=React.js&width=400&color=6366F1" alt="React.js 90%" />
-          <img src="https://progress-bar.dev/85/?title=Next.js&width=400&color=6366F1" alt="Next.js 85%" />
-          <img src="https://progress-bar.dev/88/?title=HTML/CSS&width=400&color=6366F1" alt="HTML/CSS 88%" />
-          <img src="https://progress-bar.dev/82/?title=Tailwind&width=400&color=6366F1" alt="Tailwind 82%" />
+          <img src="https://progress-bar.dev/90/?title=Python&width=400&color=6366F1" alt="Python 90%" />
+          <img src="https://progress-bar.dev/85/?title=TensorFlow&width=400&color=6366F1" alt="TensorFlow 85%" />
+          <img src="https://progress-bar.dev/80/?title=PyTorch&width=400&color=6366F1" alt="PyTorch 80%" />
+          <img src="https://progress-bar.dev/75/?title=Scikit-learn&width=400&color=6366F1" alt="Scikit-learn 75%" />
+          <img src="https://progress-bar.dev/70/?title=NLP&width=400&color=6366F1" alt="NLP 70%" />
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Backend</h3>
+        <h3 align="center">Development</h3>
         <div align="center">
-          <img src="https://progress-bar.dev/85/?title=Node.js&width=400&color=6366F1" alt="Node.js 85%" />
-          <img src="https://progress-bar.dev/80/?title=Express.js&width=400&color=6366F1" alt="Express.js 80%" />
-          <img src="https://progress-bar.dev/75/?title=MongoDB&width=400&color=6366F1" alt="MongoDB 75%" />
-          <img src="https://progress-bar.dev/70/?title=Firebase&width=400&color=6366F1" alt="Firebase 70%" />
-          <img src="https://progress-bar.dev/65/?title=SQL&width=400&color=6366F1" alt="SQL 65%" />
+          <img src="https://progress-bar.dev/85/?title=JavaScript&width=400&color=6366F1" alt="JavaScript 85%" />
+          <img src="https://progress-bar.dev/80/?title=React.js&width=400&color=6366F1" alt="React.js 80%" />
+          <img src="https://progress-bar.dev/75/?title=Node.js&width=400&color=6366F1" alt="Node.js 75%" />
+          <img src="https://progress-bar.dev/70/?title=MongoDB&width=400&color=6366F1" alt="MongoDB 70%" />
+          <img src="https://progress-bar.dev/65/?title=TypeScript&width=400&color=6366F1" alt="TypeScript 65%" />
         </div>
       </td>
     </tr>
@@ -161,12 +153,23 @@
 ## <div align="center">🏆 Hackathon Achievements</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=First+Place+Winner+at+Code-e-manipal;Top+15+Teams+at+Code+Seva+Hackathon;Participant+at+Code+Kshetra+2.0;Participant+at+Code+Nakshatra;Participant+at+Hackaccino+3.0" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Winner+at+HackHazards+2025;First+Place+Winner+at+Code-e-manipal;Top+15+Teams+at+Code+Seva+Hackathon;Participant+at+Code+Kshetra+2.0;Participant+at+Code+Nakshatra" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="50%">
+        <div class="achievement-card">
+          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
+          <h3>HackHazards 2025</h3>
+          <p><b>Winner 🏆</b></p>
+          <p>Won first prize in AI/ML category for innovative disaster prediction system</p>
+          <p>Organized by TechGuild International</p>
+          <p><i>June 2025</i></p>
+          <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=HackHazards+Certificate" alt="HackHazards Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        </div>
+      </td>
       <td align="center" width="50%">
         <div class="achievement-card">
           <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
@@ -176,6 +179,19 @@
           <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
           <p><i>March 21-22, 2025</i></p>
           <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal%20kanak%20.jpg-jlaTL2sugUNA3PbcbTcpF6fgVNyjcc.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <div class="achievement-card">
+          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
+          <h3>Transcrypt Project</h3>
+          <p><b>Featured Project 🌟</b></p>
+          <p>Developed advanced encryption system using neural networks</p>
+          <p>Recognized by AI Research Community</p>
+          <p><i>May 2025</i></p>
+          <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Transcrypt+Project" alt="Transcrypt Project" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
         </div>
       </td>
       <td align="center" width="50%">
@@ -190,40 +206,6 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <div class="achievement-card">
-          <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
-          <h3>Code Kshetra 2.0</h3>
-          <p><b>Participant</b> in India's biggest hackathon</p>
-          <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
-          <p><i>February 21-22, 2025</i></p>
-          <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra%20kanak.jpg-ULoGwNGye6mYWwmjRP8CnGhZf2uM0J.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-        </div>
-      </td>
-      <td align="center">
-        <div class="achievement-card">
-          <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
-          <h3>Code Nakshatra</h3>
-          <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
-          <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
-          <p><i>April 3-4, 2025</i></p>
-          <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20nakshetra%20kanak%20.jpg-8i49WaKN3uZxSf2AnBgS5VpxG4smkc.jpeg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <div class="achievement-card">
-          <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
-          <h3>Hackaccino 3.0</h3>
-          <p><b>Participant</b> in Hackaccino 2025</p>
-          <p>Organized by SCET</p>
-          <p><i>March 15, 2025</i></p>
-          <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hackaccino%20kanak.jpg-FBxWp5jJTt1y1suxtd2oY0t69UMhNM.jpeg" alt="Hackaccino Certificate" width="80%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-        </div>
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -234,12 +216,34 @@
 ## <div align="center">🚀 Featured Projects</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=AgriMarket+WebApp;NeuroNest;Elite+Sports" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Transcrypt+AI;AgriMarket+WebApp;NeuroNest" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <table>
     <tr>
+      <td width="50%">
+        <h3 align="center">Transcrypt AI</h3>
+        <div align="center">
+          <a href="https://github.com/kanaksharma67/Transcrypt" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="Transcrypt AI"/>
+          </a>
+          <p>
+            <a href="https://github.com/kanaksharma67/Transcrypt" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://transcrypt-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><b>Python, TensorFlow, React.js, Node.js</b></p>
+          <ul align="left">
+            <li>Advanced neural encryption system that adapts to patterns in data</li>
+            <li>Uses LSTM networks for dynamic key generation and pattern recognition</li>
+            <li>Recognized by AI research community for innovative approach</li>
+          </ul>
+        </div>
+      </td>
       <td width="50%">
         <h3 align="center">AgriMarket WebApp</h3>
         <div align="center">
@@ -254,19 +258,21 @@
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><b>HTML, CSS, React.js, TailwindCSS, Framer-motion</b></p>
+          <p><b>React.js, Python, TensorFlow, MongoDB</b></p>
           <ul align="left">
-            <li>A web app designed to empower farmers by providing real-time news, weather forecasts, and crop market prices</li>
-            <li>Integrated image-upload-based analysis for personalized insights and API integration for real-time data</li>
-            <li>Enhanced accessibility and usability for users with limited technical knowledge</li>
+            <li>AI-powered agricultural assistant with real-time market predictions</li>
+            <li>Integrated ML models for crop price forecasting and disease detection</li>
+            <li>Winner of Code-e-manipal hackathon 2025</li>
           </ul>
         </div>
       </td>
-      <td width="50%">
+    </tr>
+    <tr>
+      <td colspan="2">
         <h3 align="center">NeuroNest</h3>
         <div align="center">
           <a href="https://github.com/kanaksharma67/NeuroNest" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="NeuroNest"/>
+            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="80%" alt="NeuroNest"/>
           </a>
           <p>
             <a href="https://github.com/kanaksharma67/NeuroNest" target="_blank">
@@ -276,35 +282,11 @@
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><b>Vite+React+ts, GSAP, Accertinity, Python</b></p>
-          <ul align="left">
-            <li>NeuroNest is an AI-powered app designed to assist dementia patients with face recognition and medication management</li>
-            <li>Built using React.js with Tailwind CSS and GSAP animations</li>
-            <li>Led UI/UX improvements for better navigation and information delivery</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3 align="center">Elite Sports</h3>
-        <div align="center">
-          <a href="https://github.com/kanaksharma67/EliteSports" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200835-3ff8e308-8ddf-4322-9e4d-fa13bf38c6f6.gif" width="80%" alt="Elite Sports"/>
-          </a>
-          <p>
-            <a href="https://github.com/kanaksharma67/EliteSports" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://elite-sports-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><b>Vite+React.js, Tailwind CSS, Framer-motion</b></p>
+          <p><b>React.js, TensorFlow.js, Face-API.js</b></p>
           <ul align="left" style="display: inline-block; text-align: left; max-width: 80%;">
-            <li>Created platform supporting athletes from low financial backgrounds</li>
-            <li>Implemented state management and API handling for real-time updates</li>
-            <li>Integrated Clerk and Razorpay for premium feature payments</li>
+            <li>AI-powered app assisting dementia patients with face recognition</li>
+            <li>Real-time medication reminders and cognitive assistance</li>
+            <li>Featured in top 15 at Code Seva Hackathon</li>
           </ul>
         </div>
       </td>
@@ -344,8 +326,17 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" height="30" alt="Trophy" />
       </div>
       <div class="timeline-body">
-        <h4 class="timeline-title"><span class="badge">2025 (April)</span></h4>
-        <p>Participated in Code Nakshatra at TRINITY INSTITUTE Greater Noida</p>
+        <h4 class="timeline-title"><span class="badge">2025 (June)</span></h4>
+        <p>Winner at HackHazards 2025 for AI-powered disaster prediction system</p>
+      </div>
+    </div>
+    <div class="timeline-container">
+      <div class="timeline-icon">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30" height="30" alt="Desktop Computer" />
+      </div>
+      <div class="timeline-body">
+        <h4 class="timeline-title"><span class="badge">2025 (May)</span></h4>
+        <p>Developed Transcrypt - Neural Encryption System</p>
       </div>
     </div>
     <div class="timeline-container">
@@ -368,25 +359,16 @@
     </div>
     <div class="timeline-container">
       <div class="timeline-icon">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" alt="Laptop" />
-      </div>
-      <div class="timeline-body">
-        <h4 class="timeline-title"><span class="badge">2025 (February)</span></h4>
-        <p>Participated in Code Kshetra 2.0 at Jagan Institute of Management Studies</p>
-      </div>
-    </div>
-    <div class="timeline-container">
-      <div class="timeline-icon">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30" height="30" alt="Desktop Computer" />
-      </div>
-      <div class="timeline-body">
-        <h4 class="timeline-title"><span class="badge">2023</span></h4>
-        <p>Started learning Full Stack Development</p>
-      </div>
-    </div>
-    <div class="timeline-container">
-      <div class="timeline-icon">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="30" height="30" alt="Memo" />
+      </div>
+      <div class="timeline-body">
+        <h4 class="timeline-title"><span class="badge">2024</span></h4>
+        <p>Started specializing in Machine Learning and Deep Learning</p>
+      </div>
+    </div>
+    <div class="timeline-container">
+      <div class="timeline-icon">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" alt="Laptop" />
       </div>
       <div class="timeline-body">
         <h4 class="timeline-title"><span class="badge">2022</span></h4>
@@ -439,7 +421,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%">
   <p>Made with ❤️ by Kanak Sharma</p>
-  <p><em>Last updated: May 2025</em></p>
+  <p><em>Last updated: June 2025</em></p>
 </div>
-```
-
